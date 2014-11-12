@@ -27,3 +27,8 @@ Use the following command to generate a .project file:
     sbt eclipse
 
 Then use Eclipse to open the .project file.
+
+Reference
+---------
+ 1. <http://blog.csdn.net/oopsoom/article/details/38363369>
+ 2. <https://gitcafe.com/liancheng/weibo-friends>
