@@ -15,3 +15,15 @@ Run
 ---
 
     sbt 'run me.soulmachine.weibo.WeiboFriends'
+
+Import to IntelliJ Idea
+-----------------------
+Use IntelliJ Idea to open the build.sbt file and you're all set
+
+Import to Eclipse
+-----------------
+Use the following command to generate a .project file:
+
+    sbt eclipse
+
+Then use Eclipse to open the .project file.
